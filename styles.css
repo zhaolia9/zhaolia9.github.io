@@ -13,10 +13,23 @@ body {
 .assignment img {
     width: 400px;
     padding: 10px;
+    border: 2px solid #87ab64;
 }
 
+.assignment img:hover {
+    border: 4px dashed #87ab64;
+}
 
 h1 {
     color:rgb(51, 5, 94);
     text-align:center;
+}
+
+a {
+    color:rgb(51, 5, 94);
+    text-decoration:none;
+}
+
+a:hover {
+    color:#87ab64;
 }
