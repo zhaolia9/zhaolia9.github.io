@@ -9,7 +9,7 @@ body {
 }
 
 .assignment { 
-    width:30%;
+    width:25%;
     padding: 10px;
     margin: 10px;
     padding:20px 10px;
@@ -17,7 +17,7 @@ body {
 }
 
 .assignment img {
-    width: 400px;
+    width: 350px;
     padding: 10px;
     border: 2px solid #87ab64;
     display:block;
