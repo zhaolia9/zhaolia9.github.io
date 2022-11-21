@@ -14,7 +14,7 @@ body {
     margin: 10px;
     padding:20px 10px;
     background: lavenderblush;
-    box-shadow: 6px 6px 0 var(--background-color-dark);
+    box-shadow: 3px 3px 0 rgb(162, 114, 191);
 }
 
 .assignment img {
